@@ -17,11 +17,6 @@ We've used industry-standard design tools to create an intuitive and visually ap
 - CSS
 - JavaScript
 
-## Project Live Location 🌐
-
-You can access the live version of this project at [Password Strength Checker](https://prodigy-intern-password-strength-q2l8amji0.vercel.app). Try it out and enhance your password security!
-
-
 ## Thank You! 👏
 
 We appreciate you taking the time to explore our Password Strength Checker project. Your online security is our top priority, and we hope this tool helps you keep your accounts safe.
