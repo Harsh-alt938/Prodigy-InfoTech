@@ -21,7 +21,3 @@ We've used industry-standard design tools to create an intuitive and visually ap
 
 We appreciate you taking the time to explore our Password Strength Checker project. Your online security is our top priority, and we hope this tool helps you keep your accounts safe.
 
-## Hashtags 📌
-
-#PasswordStrength #Security #PasswordChecker #OnlineSecurity #WebDevelopment #CyberSecurity #TechProject #PasswordSafety #PasswordGenerator
-
