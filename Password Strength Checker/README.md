@@ -1,6 +1,5 @@
 # Password Strength Checker 💪🔐
  
-
 Welcome to the Password Strength Checker project! This powerful tool is designed to help you assess the strength of your passwords and ensure your online security.
 
 ## Project Purpose 📋
@@ -10,6 +9,12 @@ The purpose of this project is to provide you with an easy-to-use tool to evalua
 ## Design Tools 🎨
 
 We've used industry-standard design tools to create an intuitive and visually appealing user interface. Our design team leveraged Figma and Photoshop to craft a user-friendly experience.
+
+## Screenshot
+
+Include screenshots of your application in action here. For example:
+
+![Application Demo](screenshot.jpg)
 
 ## Technologies Used 💻
 
