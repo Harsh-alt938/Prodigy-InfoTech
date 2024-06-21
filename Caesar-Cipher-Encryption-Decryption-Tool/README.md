@@ -8,6 +8,9 @@ This repository contains a Python script that implements the classic Caesar Ciph
 
 ## Screenshot
 
+Include screenshots of your application in action here. For example:
+
+![Application Demo](screenshot.jpg)
 
 ## Features
 
